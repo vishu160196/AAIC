@@ -1,0 +1,2 @@
+# AAIC
+Course assignments
